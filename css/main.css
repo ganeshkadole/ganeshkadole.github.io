@@ -289,3 +289,10 @@ footer a:not(.nav-link) {
   height: 100%;
 }
 
+figcaption {
+  background-color: rgb(103, 103, 103);
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
